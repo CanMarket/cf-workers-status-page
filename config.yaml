@@ -128,12 +128,6 @@ monitors:
     method: GET
     expectStatus: 200
 
-  - id: manontherun-org
-    name: Man On The Run
-    url: 'https://manontherun.org/'
-    method: GET
-    expectStatus: 200
-
   - id: www-ekklesiapublishing-co-uk
     name: Ekklesia Publishing
     url: 'https://www.ekklesiapublishing.co.uk/'
