@@ -1,6 +1,6 @@
 settings:
   title: 'Status Page'
-  url: 'https://status.canmarket.workers.dev' # used for Slack messages
+  url: 'https://status.canmarket.co.uk' # used for Slack messages
   logo: logo-192x192.png # image in ./public/ folder
   daysInHistogram: 90 # number of days you want to display in histogram
   collectResponseTimes: true # collects avg response times from CRON locations
@@ -35,5 +35,11 @@ monitors:
   - id: www-seanreilly-org
     name: Sean Reilly
     url: 'https://www.seanreilly.org/'
+    method: GET
+    expectStatus: 200
+
+  - id: www-worthgate-org-uk
+    name: Worthgate
+    url: 'https://www.worthgate.org.uk/'
     method: GET
     expectStatus: 200
