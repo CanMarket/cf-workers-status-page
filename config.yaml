@@ -38,8 +38,158 @@ monitors:
     method: GET
     expectStatus: 200
 
-  - id: Test
-    name: Test
-    url: 'http://badgerstatic.com/'
+  - id: www-thepmoprofessionals-com
+    name: The PMO Professionals
+    url: 'https://www.thepmoprofessionals.com/'
+    method: GET
+    expectStatus: 200
+
+  - id: www-nextholiday-co-uk
+    name: Next Holiday
+    url: 'https://www.nextholiday.co.uk/'
+    method: GET
+    expectStatus: 200
+
+  - id: www-medwaymaria-co-uk
+    name: Medway Maria
+    url: 'https://www.medwaymaria.co.uk/'
+    method: GET
+    expectStatus: 200
+
+  - id: www-postandpackinguk-com
+    name: Post & Packing
+    url: 'https://www.postandpackinguk.com/'
+    method: GET
+    expectStatus: 200
+
+  - id: www-runandrace-com
+    name: Run & Race
+    url: 'https://www.runandrace.com/'
+    method: GET
+    expectStatus: 200
+
+  - id: www-marymissfairy-com
+    name: Mary Miss Fairy
+    url: 'https://www.marymissfairy.com/'
+    method: GET
+    expectStatus: 200
+
+  - id: www-siglumpublishing-co-uk
+    name: Siglum Publishing
+    url: 'https://www.siglumpublishing.co.uk/'
+    method: GET
+    expectStatus: 200
+
+  - id: www-ekklesia-co-uk
+    name: Ekklesia
+    url: 'https://www.ekklesia.co.uk/'
+    method: GET
+    expectStatus: 200
+
+  - id: www-ianswingland-com
+    name: Ian Swingland
+    url: 'https://www.ianswingland.com/'
+    method: GET
+    expectStatus: 200
+
+  - id: www-culturedllama-co-uk
+    name: Cultured Llama
+    url: 'https://www.culturedllama.co.uk/'
+    method: GET
+    expectStatus: 200
+
+  - id: www-growththroughknowledge-com
+    name: Growth Through Knowledge
+    url: 'https://www.growththroughknowledge.com/'
+    method: GET
+    expectStatus: 200
+
+  - id: www-acousticarchitects-co-uk
+    name: Accoustic Architects
+    url: 'https://www.acousticarchitects.co.uk/'
+    method: GET
+    expectStatus: 200
+
+  - id: worthgate-org-uk
+    name: Worthgate
+    url: 'https://worthgate.org.uk/'
+    method: GET
+    expectStatus: 200
+
+  - id: rgelectronics-co-uk
+    name: RG Electronics
+    url: 'https://rgelectronics.co.uk/'
+    method: GET
+    expectStatus: 200
+
+  - id: www-jamesreillyracing-com
+    name: James Reilly Racing
+    url: 'https://www.jamesreillyracing.com/'
+    method: GET
+    expectStatus: 200
+
+  - id: manontherun-org
+    name: Man On The Run
+    url: 'https://manontherun.org/'
+    method: GET
+    expectStatus: 200
+
+  - id: www-ekklesiapublishing-co-uk
+    name: Ekklesia Publishing
+    url: 'https://www.ekklesiapublishing.co.uk/'
+    method: GET
+    expectStatus: 200
+
+  - id: jtalkonline-com
+    name: Jtalk Online
+    url: 'https://jtalkonline.com/'
+    method: GET
+    expectStatus: 200
+
+  - id: j-entranslations-com
+    name: J-En Translations
+    url: 'https://j-entranslations.com/home/'
+    method: GET
+    expectStatus: 200
+
+  - id: digitalwebprofit-com
+    name: Digital Web Profit
+    url: 'https://digitalwebprofit.com/'
+    method: GET
+    expectStatus: 200
+
+  - id: carling-org-ukwp
+    name: Bob Carling
+    url: 'https://carling.org.uk/wp/'
+    method: GET
+    expectStatus: 200
+
+  - id: www-caninvest-uk
+    name: CanInvest
+    url: 'https://www.caninvest.uk/'
+    method: GET
+    expectStatus: 200
+
+  - id: www-ebetterlife-com
+    name: eBetterLife
+    url: 'https://www.ebetterlife.com/'
+    method: GET
+    expectStatus: 200
+
+  - id: peterboulton-com
+    name: Peter Boulton
+    url: 'https://peterboulton.com/'
+    method: GET
+    expectStatus: 200
+
+  - id: motorhours-com
+    name: Motor Hours
+    url: 'https://motorhours.com/'
+    method: GET
+    expectStatus: 200
+
+  - id: apexoff-com
+    name: ApexOff
+    url: 'https://apexoff.com/'
     method: GET
     expectStatus: 200
