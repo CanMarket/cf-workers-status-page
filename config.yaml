@@ -38,8 +38,8 @@ monitors:
     method: GET
     expectStatus: 200
 
-  - id: www-worthgate-org-uk
-    name: Worthgate
-    url: 'https://www.worthgate.org.uk/'
+  - id: Test
+    name: Test
+    url: 'http://badgerstatic.com/'
     method: GET
     expectStatus: 200
