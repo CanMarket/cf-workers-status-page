@@ -56,12 +56,6 @@ monitors:
     method: GET
     expectStatus: 200
 
-  - id: www-postandpackinguk-com
-    name: Post & Packing
-    url: 'https://www.postandpackinguk.com/'
-    method: GET
-    expectStatus: 200
-
   - id: www-runandrace-com
     name: Run & Race
     url: 'https://www.runandrace.com/'
