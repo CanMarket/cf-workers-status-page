@@ -104,18 +104,6 @@ monitors:
     method: GET
     expectStatus: 200
 
-  - id: worthgate-org-uk
-    name: Worthgate
-    url: 'https://worthgate.org.uk/'
-    method: GET
-    expectStatus: 200
-
-  - id: rgelectronics-co-uk
-    name: RG Electronics
-    url: 'https://rgelectronics.co.uk/'
-    method: GET
-    expectStatus: 200
-
   - id: www-jamesreillyracing-com
     name: James Reilly Racing
     url: 'https://www.jamesreillyracing.com/'
