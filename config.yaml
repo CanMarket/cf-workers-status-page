@@ -86,12 +86,6 @@ monitors:
     method: GET
     expectStatus: 200
 
-  - id: www-culturedllama-co-uk
-    name: Cultured Llama
-    url: 'https://www.culturedllama.co.uk/'
-    method: GET
-    expectStatus: 200
-
   - id: www-growththroughknowledge-com
     name: Growth Through Knowledge
     url: 'https://www.growththroughknowledge.com/'
